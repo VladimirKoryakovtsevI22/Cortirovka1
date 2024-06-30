@@ -1,0 +1,3 @@
+﻿  Cort2.cpp
+E:\Системное программирование\Cort2\Cort2\Cort2.cpp(19,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Cort2.vcxproj -> E:\Системное программирование\Cort2\Debug\Cort2.exe
